@@ -1,6 +1,6 @@
 # EcoEvo Graph Theory Code
 
-Code and data for generating the publication figures. The notebooks are organized
+Code and data for generating publication figures. The notebooks are organized
 by model and use the `results` folders alongside them. Shared population-size
 data is in `pop_sizes`.
 
