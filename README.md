@@ -8,6 +8,8 @@ Run notebooks with their own directory as the working directory. Analysis
 notebooks use the existing results; generation notebooks create missing results.
 Some extended numerical calculations can take a long time.
 
+GenAI was used to aggregate notebooks from multiple files, organise folder structure, and for creating code to generate figures.
+
 ## EvoLudo JAR configuration
 
 EvoLudo simulation notebooks require Java and the appropriate EvoLudo JAR files.
