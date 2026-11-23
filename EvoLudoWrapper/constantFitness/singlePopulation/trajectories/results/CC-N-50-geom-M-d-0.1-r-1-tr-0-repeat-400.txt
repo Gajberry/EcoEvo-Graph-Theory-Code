@@ -1,0 +1,19 @@
+! New Record
+# Ecological Moran process
+# EvoLudo: v2.3.0-RC1-21-gd338ee3X © Christoph Hauert
+# today:                2026-11-23T00:34:54.899850
+# arguments:             --deathrate 0.1 --delay 0 --fitness 1,1 --geometry M --init number 2,0,48 --model IBS --module eMoran --mutation 0 --output CC-N-50-geom-M-d-0.1-r-1-tr-0-repeat-400.txt --popsize 50 --popupdate e --timerelax 0 --timestep 0 --timestop 5000
+# data:
+Na 1.0
+Na 2.0
+Na 1.0
+Nav 0.0
+Nav 0.0
+Nav 0.0
+Time: 0.3690110857115637
+Time: 0.8815310278167686
+Time: 1.2074960876603482
+Inhabited Degree Distribution [1.0]
+Inhabited Degree Distribution [2.0]
+Inhabited Degree Distribution [1.0]
+All Degrees [50.0]
